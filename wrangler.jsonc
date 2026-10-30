@@ -1,0 +1,10 @@
+{
+  "name": "void",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./"
+  },
+  "routes": [
+    { "pattern": "void.cskartikey.dev", "custom_domain": true }
+  ]
+}

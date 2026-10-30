@@ -26,3 +26,14 @@ Then go to http://localhost:8000.
 
 - `Enter` sends
 - `Shift + Enter` adds a new line
+
+## Deploy
+
+It's served as static assets on Cloudflare Workers at https://void.cskartikey.dev.
+
+```sh
+npx wrangler login
+npx wrangler deploy
+```
+
+`.assetsignore` keeps the README, the screenshot and the config out of the upload.
