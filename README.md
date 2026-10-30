@@ -2,6 +2,8 @@
 
 Type something, press Enter, and it spirals into a black hole.
 
+![A black hole with a glowing orange accretion disk. The sentence "i am so tired of pretending this is fine" is curving around it on its way in.](assets/void.png)
+
 This simply exists when I want to vent out and don't want to bother a friend. 
 
 Nothing is preserved.
